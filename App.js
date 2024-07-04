@@ -8,14 +8,16 @@ import './App.css';
 function App() {
   return (
     <section>
+      <div>
     <div className="App">
       
-      <Header />
+   <div className='header'>   <Header /> </div>
       
      
       <div className="main-content"> 
      <div className="top"> <Nav /></div>
-      <Article />
+     <div className="article"> <Article /></div>
+      </div>
       </div>
       <Footer />
     </div>

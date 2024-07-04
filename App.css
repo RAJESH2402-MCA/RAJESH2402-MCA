@@ -10,3 +10,14 @@
     display: flex;
     flex: 1; /* Takes remaining space */
   }
+  
+  .header{
+    width: 1000px;
+    margin-left: 40%;
+    padding: -10px;
+  }
+ .article{
+  background-color: rgb(241, 241, 242);
+  margin-bottom: 100px;
+  width: 120%;
+ }
